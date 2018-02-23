@@ -1,0 +1,7 @@
+[
+    {
+        "command": "c++ -c -std=c++17 -o churchEncodingBooleanTests -I/home/alexb/work/designStudies/churchEncodingBooleanCpp /home/alexb/work/designStudies/churchEncodingBooleanCpp/churchEncodingBooleanTests.cpp",
+        "directory": "/home/alexb/work/designStudies/churchEncodingBooleanCpp",
+        "file": "/home/alexb/work/designStudies/churchEncodingBooleanCpp/churchEncodingBooleanTests.cpp"
+    }
+]
